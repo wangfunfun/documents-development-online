@@ -1,0 +1,1 @@
+const e={key:"v-68c2b3ff",path:"/docs/environment/jdk.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1655879258e3,updatedTime:1655879258e3,contributors:[{name:"wangfunfun",email:"15376960583@189.cn",commits:1}]},filePathRelative:"docs/environment/jdk.md"};export{e as data};
