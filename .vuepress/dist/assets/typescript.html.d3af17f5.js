@@ -1,1 +1,0 @@
-const t={key:"v-033c8aa8",path:"/docs/technology/typescript.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1655879258e3,updatedTime:1655879258e3,contributors:[{name:"wangfunfun",email:"15376960583@189.cn",commits:1}]},filePathRelative:"docs/technology/typescript.md"};export{t as data};

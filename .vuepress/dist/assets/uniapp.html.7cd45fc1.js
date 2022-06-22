@@ -1,1 +1,0 @@
-const e={key:"v-e259c100",path:"/docs/technology/uniapp.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1655879258e3,updatedTime:1655879258e3,contributors:[{name:"wangfunfun",email:"15376960583@189.cn",commits:1}]},filePathRelative:"docs/technology/uniapp.md"};export{e as data};
