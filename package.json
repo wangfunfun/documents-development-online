@@ -1,0 +1,17 @@
+{
+  "name": "wangfunfun-documents-online",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "",
+  "author": "wangfunfun",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "start": "vuepress dev .",
+    "build": "vuepress build ."
+  },
+  "dependencies": {
+    "vuepress": "2.0.0-beta.46",
+    "vuepress-theme-reco": "2.0.0-beta.16"
+  }
+}
