@@ -1,8 +1,11 @@
 ---
-slider:auto
+title: Visual Studio Code
+date: 2022/06/24 14:32:00
+tags:
+  - Visual Studio Code
+categories:
+  - Softwares
 ---
-
-# Visual Studio Code
 
 ## 下载与安装
 
@@ -16,7 +19,7 @@ slider:auto
 
 ### 主题插件
 
-### Prettier Code Formatter
+### Prettier 格式化
 
 ### Git/Svn 相关
 

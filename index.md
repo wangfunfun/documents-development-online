@@ -1,9 +1,10 @@
 ---
 home: true
+isShowTitleInHome: true
 modules:
   - BannerBrand
   - MdContent
-  - Footer
+  # - Footer
 bannerBrand:
   heroImage: /logo.png
   heroImageStyle:
@@ -18,5 +19,4 @@ bannerBrand:
   buttons:
     - { text: 开始, link: '' }
     - { text: 关于网站, link: '', type: 'plain' }
-isShowTitleInHome: true
 ---

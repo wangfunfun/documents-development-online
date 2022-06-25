@@ -1,8 +1,11 @@
 ---
-slider:auto
+title: Nvm for Windows
+date: 2022/06/19 14:32:00
+tags:
+  - nvm
+categories:
+  - Softwares
 ---
-
-# Nvm for Windows
 
 前端不同项目会使用不同 Node.js 版本，这里介绍，怎么用 Nvm for Windows 控制 Node.js 版本。
 
@@ -100,7 +103,7 @@ nvm current
 
 ## 常见问题
 
-### 1. 切换版本提示 exit status
+### 切换版本提示 exit status
 
 ![An image](../../.vuepress/public/softwares/nvm/nvm-use-error.png)
 
@@ -112,7 +115,7 @@ nvm current
   nvm use version(版本号)
 ```
 
-### 2. node、npm 不是有效的命令
+### node、npm 不是有效的命令
 
 1. 检查一下 nvm 安装目录下是否有下载的 Node.js 版本，如果没有则需要重新下载。
 
@@ -132,7 +135,7 @@ nvm current
 
 ![An image](../../.vuepress/public/softwares/nvm/npm.png)
 
-### 3. Nvm for Windows 安装 Node.js 下载速度慢
+### Nvm for Windows 安装 Node.js 下载速度慢
 
 添加以下内容到安装 Nvm for Windows 目录 settings.txt
 
