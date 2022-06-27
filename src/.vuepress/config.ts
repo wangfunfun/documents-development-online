@@ -74,10 +74,10 @@ export default defineUserConfig({
       {
         text: 'Softwares',
         children: [
-          // {
-          //   text: 'Visual Studio Code',
-          //   link: '/docs/softwares/vscode.md',
-          // },
+          {
+            text: 'Visual Studio Code',
+            link: '/docs/softwares/vscode.md',
+          },
           // {
           //   text: 'Git / Tortoise Git',
           //   link: '/docs/softwares/git-tortoise-git.md',

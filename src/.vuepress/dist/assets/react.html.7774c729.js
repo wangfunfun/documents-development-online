@@ -1,1 +1,0 @@
-const e={key:"v-87653efc",path:"/docs/technology/react.html",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{createdTime:1655877926e3,updatedTime:1655879489e3,contributors:[{name:"wangfunfun",email:"15376960583@189.cn",commits:3}]},filePathRelative:"docs/technology/react.md"};export{e as data};

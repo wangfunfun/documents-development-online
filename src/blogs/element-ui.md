@@ -1,11 +1,9 @@
 ---
-title: ELementUI/ElementPlus 踩坑
+title: ElementUI 的日期时间选择器，选择时间变成12小时制
 date: 2022/06/19 14:32:00
 categories:
   - Blogs
 ---
-
-## DateTimePicker 日期时间选择器，选择时间变成 12 小时制
 
 原因是 HH 代表 24 小时制，而 hh 代表 12 小时制，所以默认的时间就变成了[‘12:00:00’, ‘11:59:59’]
 
