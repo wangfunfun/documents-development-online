@@ -5,7 +5,6 @@ export default defineUserConfig({
   title: 'wangfunfun',
   description: 'Stay hungry, stay foolish.',
   theme: recoTheme({
-    style: '@vuepress-reco/style-default',
     logo: '/logo.png',
     author: 'wangfunfun',
     navbar: [

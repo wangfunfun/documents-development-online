@@ -1,5 +1,4 @@
 export const themeData = {
-  "style": "@vuepress-reco/style-default",
   "logo": "/logo.png",
   "author": "wangfunfun",
   "navbar": [
