@@ -29,45 +29,45 @@ categories:
 
 1. 运行下载好的 `nvm-setup.exe`， 同意协议，点击下一步
 
-![An image](../../.vuepress/public/softwares/nvm/setup-start.png)
+![An image](../.vuepress/public/softwares/nvm/setup-start.png)
 
 2. 该路径为 Nvm for Windows 的安装路径
 
-![An image](../../.vuepress/public/softwares/nvm/setup-nvm.png)
+![An image](../.vuepress/public/softwares/nvm/setup-nvm.png)
 
 3. 该路径为 Nvm for Windows 选择 Node.js 版本的存放路径
 
-![An image](../../.vuepress/public/softwares/nvm/setup-node.png)
+![An image](../.vuepress/public/softwares/nvm/setup-node.png)
 
 4. 点击 install，等待安装成功
 
-![An image](../../.vuepress/public/softwares/nvm/setup-end.png)
+![An image](../.vuepress/public/softwares/nvm/setup-end.png)
 
-![An image](../../.vuepress/public/softwares/nvm/setup-finish.png)
+![An image](../.vuepress/public/softwares/nvm/setup-finish.png)
 
 5. 安装成功后进入 cmd 命令行，输入 Nvm for Windows 命令查看是否安装成功，出现 Nvm for Windows 版本信息及为安装成功
 
-![An image](../../.vuepress/public/softwares/nvm/nvm-v.png)
+![An image](../.vuepress/public/softwares/nvm/nvm-v.png)
 
 6. 安装成功后，在用户变量和系统变量中配置了两个变量 NVM_HOME 和 NVM_SYMLINK，分别指向 Nvm for Windows 和 Node.js 的存放目录，在系统 path 变量中配置了这两个参数
 
-![An image](../../.vuepress/public/softwares/nvm/environment.png)
+![An image](../.vuepress/public/softwares/nvm/environment.png)
 
-![An image](../../.vuepress/public/softwares/nvm/environment-path.png)
+![An image](../.vuepress/public/softwares/nvm/environment-path.png)
 
 ## 配置多版本 node
 
 1. 可使用 `nvm list available` 命令查看 nvm 可安装的 Node.js 版本
 
-![An image](../../.vuepress/public/softwares/nvm/nvm-list-available.png)
+![An image](../.vuepress/public/softwares/nvm/nvm-list-available.png)
 
 2. 运行 `nvm install <version>`，安装指定的多个版本的 Node.js
 
-![An image](../../.vuepress/public/softwares/nvm/nvm-install.png)
+![An image](../.vuepress/public/softwares/nvm/nvm-install.png)
 
 3. 管理员权限运行 `nvm use <version>`，切换 Node.js 版本
 
-![An image](../../.vuepress/public/softwares/nvm/nvm-use.png)
+![An image](../.vuepress/public/softwares/nvm/nvm-use.png)
 
 ## 常用命令
 
@@ -104,7 +104,7 @@ nvm current
 
 ### 切换版本提示 exit status
 
-![An image](../../.vuepress/public/softwares/nvm/nvm-use-error.png)
+![An image](../.vuepress/public/softwares/nvm/nvm-use-error.png)
 
 使用 nvm use 命令切换 Node.js 版本时，通常是没有复制删除文件夹权限导致,可使用管理员命令进行切换
 
@@ -118,21 +118,21 @@ nvm current
 
 1. 检查一下 nvm 安装目录下是否有下载的 Node.js 版本，如果没有则需要重新下载。
 
-![An image](../../.vuepress/public/softwares/nvm/nvm.png)
+![An image](../.vuepress/public/softwares/nvm/nvm.png)
 
 2. 将下载好的 Node.js 目录中的 npm 依赖包以及 `npm`、`npm.cmd`、`npx`、`npx.cmd` 复制一份，
 
-![An image](../../.vuepress/public/softwares/nvm/node_modules.png)
+![An image](../.vuepress/public/softwares/nvm/node_modules.png)
 
-![An image](../../.vuepress/public/softwares/nvm/cmd.png)
+![An image](../.vuepress/public/softwares/nvm/cmd.png)
 
 3. 找到 nvm 安装时配置的 Node.js 存放目录
 
-![An image](../../.vuepress/public/softwares/nvm/app-data.png)
+![An image](../.vuepress/public/softwares/nvm/app-data.png)
 
 4. 将复制的 `npm`、`npm.cmd`、`npx`、`npx.cmd` 放在 Node.js 存放目录下，将复制的 npm 依赖包存放到 Node.js 存放目录里的 node_modules 目录下
 
-![An image](../../.vuepress/public/softwares/nvm/npm.png)
+![An image](../.vuepress/public/softwares/nvm/npm.png)
 
 ### Nvm for Windows 安装 Node.js 下载速度慢
 

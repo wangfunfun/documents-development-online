@@ -23,42 +23,42 @@ export const searchIndex = [
   {
     "title": "",
     "headers": [],
-    "path": "/docs/environment/github.html",
+    "path": "/environment/github.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "",
     "headers": [],
-    "path": "/docs/environment/jdk.html",
+    "path": "/environment/jdk.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "",
     "headers": [],
-    "path": "/docs/environment/nodejs.html",
+    "path": "/environment/nodejs.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "",
     "headers": [],
-    "path": "/docs/projects/",
+    "path": "/projects/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "Android Studio",
     "headers": [],
-    "path": "/docs/softwares/android-studio.html",
+    "path": "/softwares/android-studio.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "Final Shell",
     "headers": [],
-    "path": "/docs/softwares/final-shell.html",
+    "path": "/softwares/final-shell.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -79,7 +79,7 @@ export const searchIndex = [
         ]
       }
     ],
-    "path": "/docs/softwares/flutter.html",
+    "path": "/softwares/flutter.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -192,7 +192,7 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/docs/softwares/git-tortoise-git.html",
+    "path": "/softwares/git-tortoise-git.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -288,21 +288,21 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/docs/softwares/hbuilderx.html",
+    "path": "/softwares/hbuilderx.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "MySQL",
     "headers": [],
-    "path": "/docs/softwares/mysql.html",
+    "path": "/softwares/mysql.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "Navicat",
     "headers": [],
-    "path": "/docs/softwares/navicat.html",
+    "path": "/softwares/navicat.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -372,21 +372,21 @@ export const searchIndex = [
         ]
       }
     ],
-    "path": "/docs/softwares/nvm-windows.html",
+    "path": "/softwares/nvm-windows.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "PostMan",
     "headers": [],
-    "path": "/docs/softwares/postman.html",
+    "path": "/softwares/postman.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "Tortoise Svn",
     "headers": [],
-    "path": "/docs/softwares/tortoise-svn.html",
+    "path": "/softwares/tortoise-svn.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -456,21 +456,21 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/docs/softwares/vscode.html",
+    "path": "/softwares/vscode.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "微信开发者工具",
     "headers": [],
-    "path": "/docs/softwares/wx-ide.html",
+    "path": "/softwares/wx-ide.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "",
     "headers": [],
-    "path": "/docs/technology/css-sass-less.html",
+    "path": "/technology/css-sass-less.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -514,49 +514,49 @@ export const searchIndex = [
         "children": []
       }
     ],
-    "path": "/docs/technology/git.html",
+    "path": "/technology/git.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "",
     "headers": [],
-    "path": "/docs/technology/javascript.html",
+    "path": "/technology/javascript.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "",
     "headers": [],
-    "path": "/docs/technology/nodejs.html",
+    "path": "/technology/nodejs.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "",
     "headers": [],
-    "path": "/docs/technology/react.html",
+    "path": "/technology/react.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "",
     "headers": [],
-    "path": "/docs/technology/typescript.html",
+    "path": "/technology/typescript.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "",
     "headers": [],
-    "path": "/docs/technology/uniapp.html",
+    "path": "/technology/uniapp.html",
     "pathLocale": "/",
     "extraFields": []
   },
   {
     "title": "",
     "headers": [],
-    "path": "/docs/technology/vue.html",
+    "path": "/technology/vue.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -700,7 +700,7 @@ export const searchIndex = [
         ]
       }
     ],
-    "path": "/docs/technology/weixinxiaochengxu.html",
+    "path": "/technology/weixinxiaochengxu.html",
     "pathLocale": "/",
     "extraFields": []
   },

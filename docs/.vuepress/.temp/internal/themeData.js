@@ -19,7 +19,7 @@ export const themeData = {
       "children": [
         {
           "text": "微信小程序",
-          "link": "/docs/technology/微信小程序.md"
+          "link": "/technology/微信小程序.md"
         }
       ]
     },
@@ -28,15 +28,15 @@ export const themeData = {
       "children": [
         {
           "text": "Visual Studio Code",
-          "link": "/docs/softwares/vscode.md"
+          "link": "/softwares/vscode.md"
         },
         {
           "text": "Flutter",
-          "link": "/docs/softwares/flutter.md"
+          "link": "/softwares/flutter.md"
         },
         {
           "text": "Nvm for Windows",
-          "link": "/docs/softwares/nvm-windows.md"
+          "link": "/softwares/nvm-windows.md"
         }
       ]
     },

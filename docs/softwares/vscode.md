@@ -21,25 +21,25 @@ VSCode 是微软推出的跨平台、扩展组件丰富的文本编辑器。
 
 选择需要安装的版本，stable 是稳定版，一般下载这个即可。如果官方下载速度比较慢的话，可以通过我的阿里云盘下载。注意：这通常不是最新版本，安装完成后请更新至最新版本。
 
-![An image](../../.vuepress/public/softwares/vscode/download.png)
+![An image](../.vuepress/public/softwares/vscode/download.png)
 
 ### 安装
 
 1. 运行下载好的安装文件
 
-![An image](../../.vuepress/public/softwares/vscode/setup-1.png)
+![An image](../.vuepress/public/softwares/vscode/setup-1.png)
 
 2. 根据自己的需要进行勾选
 
-![An image](../../.vuepress/public/softwares/vscode/setup-2.png)
+![An image](../.vuepress/public/softwares/vscode/setup-2.png)
 
 3. 由于我的电脑已经装过该软件了，所以少了一步选择安装位置
 
-![An image](../../.vuepress/public/softwares/vscode/setup-3.png)
+![An image](../.vuepress/public/softwares/vscode/setup-3.png)
 
 4. 安装完成
 
-![An image](../../.vuepress/public/softwares/vscode/setup-4.png)
+![An image](../.vuepress/public/softwares/vscode/setup-4.png)
 
 ## 插件推荐
 
@@ -49,85 +49,85 @@ VSCode 是微软推出的跨平台、扩展组件丰富的文本编辑器。
 
 1. Chinese
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-chinese.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-chinese.png)
 
 1. markdown All in One
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-markdown.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-markdown.png)
 
 3. Todo Tree
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-todo.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-todo.png)
 
 4. Vs Code Counter
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-counter.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-counter.png)
 
 ### 主题插件
 
 1. One Dark Pro
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-theme-one-dark-pro.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-theme-one-dark-pro.png)
 
 2. Dracula Official
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-theme-dracula-official.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-theme-dracula-official.png)
 
 3. Material Icon Theme
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-marterial-icon.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-marterial-icon.png)
 
 4. Fluent Icons
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-fluent-icons.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-fluent-icons.png)
 
 5. vscide-icons
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-vscode-icons.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-vscode-icons.png)
 
 如果需要其他主题，请移步 [https://vscodethemes.com/](https://vscodethemes.com/)
 
-![An image](../../.vuepress/public/softwares/vscode/theme-store.png)
+![An image](../.vuepress/public/softwares/vscode/theme-store.png)
 
 ### 格式化
 
 1. Eslint
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-eslint.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-eslint.png)
 
 2. Prettier Code formatter
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-prettier.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-prettier.png)
 
 ### 开发插件
 
 1. Path Intellisense
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-path.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-path.png)
 
 2. Vetur
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-vetur.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-vetur.png)
 
 3. Vue Language Features (Volar)
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-volar.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-volar.png)
 
 4. Vue 3 Snippets
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-vue3.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-vue3.png)
 
 5. Live Server
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-live.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-live.png)
 
 6. JavaScript (ES6) code snippets
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-es6.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-es6.png)
 
 7. Code Runner
 
-![An image](../../.vuepress/public/softwares/vscode/plugin-run.png)
+![An image](../.vuepress/public/softwares/vscode/plugin-run.png)
 
 ## 我的配置
 

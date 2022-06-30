@@ -20,87 +20,26 @@ export default defineUserConfig({
       {
         text: 'Technology',
         children: [
-          // {
-          //   text: 'Vue',
-          //   link: '/docs/technology/vue.md',
-          // },
-          // {
-          //   text: 'React',
-          //   link: '/docs/technology/react.md',
-          // },
-          // {
-          //   text: 'Uniapp',
-          //   link: '/docs/technology/uniapp.md',
-          // },
           {
             text: '微信小程序',
-            link: '/docs/technology/微信小程序.md',
+            link: '/technology/微信小程序.md',
           },
-          // {
-          //   text: 'Css/Sass/Less',
-          //   link: '/docs/technology/css-sass-less.md',
-          // },
-          // {
-          //   text: 'JavaScript',
-          //   link: '/docs/technology/javascript.md',
-          // },
-          // {
-          //   text: 'TypeScript',
-          //   link: '/docs/technology/typescript.md',
-          // },
-          // {
-          //   text: 'Node.js',
-          //   link: '/docs/technology/nodejs.md',
-          // },
         ],
       },
-      // {
-      //   text: 'Environment',
-      //   children: [
-      //     {
-      //       text: 'Node.js',
-      //       link: '/docs/environment/nodejs.md',
-      //     },
-      //     {
-      //       text: 'JDK',
-      //       link: '/docs/environment/jdk.md',
-      //     },
-      //     {
-      //       text: 'Github',
-      //       link: '/docs/environment/github.md',
-      //     },
-      //   ],
-      // },
       {
         text: 'Softwares',
         children: [
           {
             text: 'Visual Studio Code',
-            link: '/docs/softwares/vscode.md',
+            link: '/softwares/vscode.md',
           },
           {
             text: 'Flutter',
-            link: '/docs/softwares/flutter.md',
+            link: '/softwares/flutter.md',
           },
-          // {
-          //   text: 'Git / Tortoise Git',
-          //   link: '/docs/softwares/git-tortoise-git.md',
-          // },
-          // {
-          //   text: 'MySQL',
-          //   link: '/docs/softwares/mysql.md',
-          // },
-          // {
-          //   text: 'Navicat',
-          //   link: '/docs/softwares/navicat.md',
-          // },
-          // {
-          //   text: 'Final Shell',
-          //   link: '/docs/softwares/final-shell.md',
-          // },
           {
             text: 'Nvm for Windows',
-            link: '/docs/softwares/nvm-windows.md',
+            link: '/softwares/nvm-windows.md',
           },
         ],
       },
