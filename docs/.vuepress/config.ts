@@ -2,11 +2,15 @@ import { defineUserConfig } from 'vuepress'
 import recoTheme from 'vuepress-theme-reco'
 
 export default defineUserConfig({
+  base: '/',
   title: 'wangfunfun',
   description: 'Stay hungry, stay foolish.',
   theme: recoTheme({
     logo: '/logo.png',
     author: 'wangfunfun',
+    docsRepo: 'https://github.com/wangfunfun/documents-development-online',
+    docsBranch: 'master',
+    docsDir: 'docs/.vuepress/dist',
     navbar: [
       { text: 'Home', link: '/' },
       {
@@ -28,10 +32,6 @@ export default defineUserConfig({
           {
             text: 'Visual Studio Code',
             link: '/softwares/vscode.md',
-          },
-          {
-            text: 'Flutter',
-            link: '/softwares/flutter.md',
           },
           {
             text: 'Nvm for Windows',
