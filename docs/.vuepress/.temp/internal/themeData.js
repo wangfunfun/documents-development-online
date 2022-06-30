@@ -2,9 +2,6 @@ export const themeData = {
   "style": "@vuepress-reco/style-default",
   "logo": "/logo.png",
   "author": "wangfunfun",
-  "docsRepo": "https://github.com/vuepress-reco/vuepress-theme-reco-next",
-  "docsBranch": "main",
-  "docsDir": "example",
   "navbar": [
     {
       "text": "Home",

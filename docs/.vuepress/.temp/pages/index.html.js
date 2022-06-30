@@ -38,9 +38,15 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "createdTime": null,
-    "updatedTime": null,
-    "contributors": []
+    "createdTime": 1656577403000,
+    "updatedTime": 1656577403000,
+    "contributors": [
+      {
+        "name": "wangfunfun",
+        "email": "15376960583@189.cn",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "README.md"
 }
