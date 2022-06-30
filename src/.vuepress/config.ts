@@ -78,6 +78,10 @@ export default defineUserConfig({
             text: 'Visual Studio Code',
             link: '/docs/softwares/vscode.md',
           },
+          {
+            text: 'Flutter',
+            link: '/docs/softwares/flutter.md',
+          },
           // {
           //   text: 'Git / Tortoise Git',
           //   link: '/docs/softwares/git-tortoise-git.md',

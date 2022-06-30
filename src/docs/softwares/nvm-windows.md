@@ -1,8 +1,6 @@
 ---
 title: Nvm for Windows
 date: 2022/06/19 14:32:00
-tags:
-  - nvm
 categories:
   - Softwares
 ---
@@ -14,6 +12,7 @@ categories:
 ### 下载
 
 - github: [https://github.com/coreybutler/nvm-windows/releases](https://github.com/coreybutler/nvm-windows/releases)
+
 - 阿里云盘：[https://www.aliyundrive.com/s/MkXrpEw9FT8](https://www.aliyundrive.com/s/MkXrpEw9FT8)，提取码：a3a2
 
 ### 安装前
